@@ -72,8 +72,8 @@ Construir minha carreira nas áreas de **Dados, Business Intelligence e Tecnolog
 
 ## 📫 Vamos nos conectar
 
-💼 **LinkedIn:** adicione aqui seu link  
-📧 **E-mail:** adicione aqui seu e-mail
+💼 **LinkedIn:** https://www.linkedin.com/in/iago-vito-batista-a24628413/?isSelfProfile=true
+📧 **E-mail:** iagovitobatista1@gmail.com
 
 ---
 
