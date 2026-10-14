@@ -104,7 +104,7 @@ Formação complementar voltada à **análise de dados, programação, inteligê
 
 🤖 **Destaque:** [Formação IA Claude: Do Zero ao Avançado (Udemy)](https://ude.my/UC-5e013cb5-e836-4219-9afb-290ef56ccf66) — concluída em 13/10/2026, 3,5 horas.
 
-> 💡 Pentaho ETL também integra minha formação complementar. O certificado correspondente não está identificado na pasta de certificados vinculada acima.
+🔄 **Pentaho Data Integration — ETL Essencial:** curso de 12 horas, concluído em 06/10/2026. [🏅 Ver certificado oficial da Udemy](https://ude.my/UC-3cc7c425-1264-4b5a-812f-414a60ac3d74).
 
 ### 📖 Em constante aperfeiçoamento
 
