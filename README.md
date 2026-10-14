@@ -90,6 +90,24 @@ Registro dos conteúdos e projetos já trabalhados durante a graduação. Esta s
 
 ---
 
+## 🏅 Certificações e Cursos Concluídos
+
+Além dos projetos práticos, mantenho um histórico de aprendizado contínuo. Os certificados abaixo estão organizados na minha coleção pessoal de cursos da **Udemy**.
+
+| Formação / Curso | Comprovação |
+| --- | --- |
+| 🤖 **Formação IA Claude: Do Zero ao Avançado (2026)** — 3,5 horas, concluída em 13/10/2026 | [🏅 Ver certificado público](https://ude.my/UC-5e013cb5-e836-4219-9afb-290ef56ccf66) |
+| 🐍 **Python** — programação e fundamentos da linguagem | ✅ Certificado arquivado |
+| 🗄️ **SQL** — consultas e análise de dados | ✅ Certificado arquivado |
+| 📊 **Power BI** — análise de dados e dashboards | ✅ Certificado arquivado |
+| 📗 **Excel** — planilhas e recursos de produtividade | ✅ Certificado arquivado |
+| 🎬 **Filmora** — edição de vídeo | ✅ Certificado arquivado |
+| 🎥 **OBS Studio** — transmissão e produção de conteúdo | ✅ Certificado arquivado |
+
+> 🔒 Os certificados marcados como **arquivados** estão guardados no meu Google Drive privado. Seus links públicos de validação poderão ser incluídos aqui futuramente, sem expor documentos pessoais ou alterar permissões de acesso.
+
+---
+
 ## 📚 Cursos e Formação Complementar
 
 ### ✅ Formações e estudos concluídos
@@ -102,7 +120,6 @@ Registro dos conteúdos e projetos já trabalhados durante a graduação. Esta s
 - 🤖 **Formação IA Claude: Do Zero ao Avançado (2026)** — Udemy, 3,5 horas, concluída em 13/10/2026. [Certificado](https://ude.my/UC-5e013cb5-e836-4219-9afb-290ef56ccf66)
 
 ### 📖 Em estudo e aperfeiçoamento
-
 
 - 💻 **Linguagem C:** aplicação prática dos fundamentos aprendidos na graduação
 - 📈 **Business Intelligence:** aprofundamento em modelagem, DAX e desenvolvimento de dashboards
