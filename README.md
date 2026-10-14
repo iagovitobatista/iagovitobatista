@@ -99,10 +99,11 @@ Registro dos conteúdos e projetos já trabalhados durante a graduação. Esta s
 - 🗄️ **SQL para Análise de Dados:** consultas, filtros, agregações, JOINs, subconsultas e funções de janela
 - 📊 **Power BI:** modelagem de dados, visualizações, medidas DAX, dashboards e indicadores
 - 📗 **Excel Avançado:** ferramentas de análise, organização e tratamento de informações
+- 🤖 **Formação IA Claude: Do Zero ao Avançado (2026)** — Udemy, 3,5 horas, concluída em 13/10/2026. [Certificado](https://ude.my/UC-5e013cb5-e836-4219-9afb-290ef56ccf66)
 
 ### 📖 Em estudo e aperfeiçoamento
 
-- 🤖 **Inteligência Artificial com Claude:** recursos da ferramenta, engenharia de prompts e aplicações de IA em produtividade, programação e automações
+
 - 💻 **Linguagem C:** aplicação prática dos fundamentos aprendidos na graduação
 - 📈 **Business Intelligence:** aprofundamento em modelagem, DAX e desenvolvimento de dashboards
 - 🛠️ **Boas práticas de desenvolvimento:** GitFlow, commits semânticos, deploy e integração contínua
