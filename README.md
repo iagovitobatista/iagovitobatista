@@ -90,40 +90,25 @@ Registro dos conteúdos e projetos já trabalhados durante a graduação. Esta s
 
 ---
 
-## 🏅 Certificações e Cursos Concluídos
+## 🏅 Cursos e Certificações
 
-Além dos projetos práticos, mantenho um histórico de aprendizado contínuo. Os certificados abaixo estão organizados na minha coleção pessoal de cursos da **Udemy**.
+Formação complementar voltada à **análise de dados, programação, inteligência artificial e ferramentas digitais**, com aplicação prática em projetos e estudos.
 
-| Formação / Curso | Comprovação |
-| --- | --- |
-| 🤖 **Formação IA Claude: Do Zero ao Avançado (2026)** — 3,5 horas, concluída em 13/10/2026 | [🏅 Ver certificado público](https://ude.my/UC-5e013cb5-e836-4219-9afb-290ef56ccf66) |
-| 🐍 **Python** — programação e fundamentos da linguagem | ✅ Certificado arquivado |
-| 🗄️ **SQL** — consultas e análise de dados | ✅ Certificado arquivado |
-| 📊 **Power BI** — análise de dados e dashboards | ✅ Certificado arquivado |
-| 📗 **Excel** — planilhas e recursos de produtividade | ✅ Certificado arquivado |
-| 🎬 **Filmora** — edição de vídeo | ✅ Certificado arquivado |
-| 🎥 **OBS Studio** — transmissão e produção de conteúdo | ✅ Certificado arquivado |
+**📊 Dados e Tecnologia**  
+`Python` • `SQL` • `Power BI` • `Excel` • `Pentaho ETL` • `IA Claude`
 
-> 🔒 Os certificados marcados como **arquivados** estão guardados no meu Google Drive privado. Seus links públicos de validação poderão ser incluídos aqui futuramente, sem expor documentos pessoais ou alterar permissões de acesso.
+**🎬 Ferramentas Complementares**  
+`OBS Studio` • `Filmora`
 
----
+📂 **[Consultar certificados dos cursos (Google Drive)](https://drive.google.com/drive/folders/1oMJTc9IcahNjTIyryZNbKBRCCrDy6j8D?usp=sharing)**
 
-## 📚 Cursos e Formação Complementar
+🤖 **Destaque:** [Formação IA Claude: Do Zero ao Avançado (Udemy)](https://ude.my/UC-5e013cb5-e836-4219-9afb-290ef56ccf66) — concluída em 13/10/2026, 3,5 horas.
 
-### ✅ Formações e estudos concluídos
+> 💡 Pentaho ETL também integra minha formação complementar. O certificado correspondente não está identificado na pasta de certificados vinculada acima.
 
-- 🐍 **Python — 40 horas:** lógica de programação, estruturas de dados, funções e fundamentos da linguagem
-- 🔄 **ETL com Pentaho Data Integration (PDI/Kettle):** extração, transformação e carregamento de dados, steps de entrada e saída, organização de transformações e jobs
-- 🗄️ **SQL para Análise de Dados:** consultas, filtros, agregações, JOINs, subconsultas e funções de janela
-- 📊 **Power BI:** modelagem de dados, visualizações, medidas DAX, dashboards e indicadores
-- 📗 **Excel Avançado:** ferramentas de análise, organização e tratamento de informações
-- 🤖 **Formação IA Claude: Do Zero ao Avançado (2026)** — Udemy, 3,5 horas, concluída em 13/10/2026. [Certificado](https://ude.my/UC-5e013cb5-e836-4219-9afb-290ef56ccf66)
+### 📖 Em constante aperfeiçoamento
 
-### 📖 Em estudo e aperfeiçoamento
-
-- 💻 **Linguagem C:** aplicação prática dos fundamentos aprendidos na graduação
-- 📈 **Business Intelligence:** aprofundamento em modelagem, DAX e desenvolvimento de dashboards
-- 🛠️ **Boas práticas de desenvolvimento:** GitFlow, commits semânticos, deploy e integração contínua
+Aprofundando conhecimentos em **Business Intelligence, DAX, modelagem de dados, linguagem C, GitFlow, deploy e integração contínua**.
 
 ---
 
