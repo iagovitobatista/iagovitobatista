@@ -60,6 +60,9 @@ Projeto acadêmico de desenvolvimento Front-End voltado à inclusão digital e a
 ### 🏦 [BancoTech — Sistema Bancário em C](https://github.com/iagovitobatista/bancotech-sistema-bancario-c)
 Projeto acadêmico para aplicar fundamentos de algoritmos e programação em C, incluindo funções, validação de entradas e organização do código.
 
+### 🌧️ [PluvioMap — Monitoramento de Chuvas em C](https://github.com/iagovitobatista/pluviomap-monitoramento-chuvas-c)
+Projeto acadêmico que utiliza **matrizes, arrays, funções e validação de entradas** para organizar dados simulados de chuva de 3 bairros ao longo de 7 dias, calcular indicadores e exibir relatórios e um heatmap textual.
+
 ### 🏠 SIGA — Sistema Integrado de Gestão para Acolhimento
 **🚧 Em desenvolvimento**
 
