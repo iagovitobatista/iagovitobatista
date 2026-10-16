@@ -98,12 +98,14 @@ Registro dos conteúdos e projetos já trabalhados durante a graduação. Esta s
 Formação complementar voltada à **análise de dados, programação, inteligência artificial e ferramentas digitais**, com aplicação prática em projetos e estudos.
 
 **📊 Dados e Tecnologia**  
-`Python` • `SQL` • `Power BI` • `Excel` • `Pentaho ETL` • `IA Claude`
+`Python` • `SQL` • `Power BI` • `Excel` • `Pentaho ETL` • `IA Claude` • `Ferramentas de IA`
 
 **🎬 Ferramentas Complementares**  
 `OBS Studio` • `Filmora`
 
 📂 **[Consultar certificados dos cursos (Google Drive)](https://drive.google.com/drive/folders/1oMJTc9IcahNjTIyryZNbKBRCCrDy6j8D?usp=sharing)**
+
+🧠 **Domine as 10 Melhores Ferramentas de Inteligência Artificial (Udemy):** concluído em 16/10/2026, 2,5 horas. [🏅 Ver certificado oficial da Udemy](https://ude.my/UC-5dd489c5-fac0-4f44-9593-27eb152fa49a).
 
 🤖 **Destaque:** [Formação IA Claude: Do Zero ao Avançado (Udemy)](https://ude.my/UC-5e013cb5-e836-4219-9afb-290ef56ccf66) — concluída em 13/10/2026, 3,5 horas.
 
