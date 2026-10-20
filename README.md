@@ -63,6 +63,9 @@ Projeto acadêmico para aplicar fundamentos de algoritmos e programação em C, 
 ### 🌧️ [PluvioMap — Monitoramento de Chuvas em C](https://github.com/iagovitobatista/pluviomap-monitoramento-chuvas-c)
 Projeto acadêmico que utiliza **matrizes, arrays, funções e validação de entradas** para organizar dados simulados de chuva de 3 bairros ao longo de 7 dias, calcular indicadores e exibir relatórios e um heatmap textual.
 
+### 🛒 [CestaData — Análise e Ordenação de Preços em C](https://github.com/iagovitobatista/cestadata-monitoramento-precos-c)
+Continuidade de um projeto acadêmico em linguagem C, com evolução na **Experiência Prática IV** para organização de 10 produtos e ordenação de preços com **Bubble Sort crescente e decrescente**. Inclui código, notebook no Colab e evidências de execução.
+
 ### 🏠 SIGA — Sistema Integrado de Gestão para Acolhimento
 **🚧 Em desenvolvimento**
 
