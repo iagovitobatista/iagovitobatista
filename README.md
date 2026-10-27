@@ -66,12 +66,12 @@ Projeto acadêmico que utiliza **matrizes, arrays, funções e validação de en
 ### 🛒 [CestaData — Análise e Ordenação de Preços em C](https://github.com/iagovitobatista/cestadata-monitoramento-precos-c)
 Continuidade de um projeto acadêmico em linguagem C, com evolução na **Experiência Prática IV** para organização de 10 produtos e ordenação de preços com **Bubble Sort crescente e decrescente**. Inclui código, notebook no Colab e evidências de execução.
 
-### 🎮 Memoria7 — Ferramentas para Streaming (projeto pessoal)
+### 🎮 [Memoria7 — Ferramentas para Streaming](https://github.com/iagovitobatista/-Memoria7-Ferramentas-para-Streaming-projeto-pessoal-)
 Criação e personalização de **overlays, elementos visuais e interfaces para transmissões ao vivo**, utilizando **HTML, CSS e JavaScript** em conjunto com o **OBS Studio**. Entre os trabalhos desenvolvidos estão um overlay interativo para *Dark Souls II*, moldura de webcam, painel de ajustes e animações/alertas de demonstração. Também aplico conhecimentos de **Filmora** na produção e edição dos conteúdos do canal.
 
 **Competências aplicadas:** Front-End, animações em CSS, personalização de interfaces, configuração de fontes de navegador no OBS, testes e resolução de problemas.
 
-> 🚧 Repositório técnico específico em preparação. Os alertas de follow/sub/doação do overlay estão em modo de teste, sem integração automática confirmada com eventos reais.
+> ✅ Repositório com código HTML/CSS/JavaScript do overlay Dark Souls II (duas versões) e documentação do OBS. Os alertas de follow/sub/doação permanecem em modo de teste.
 
 ### 🏠 SIGA — Sistema Integrado de Gestão para Acolhimento
 **🚧 Em desenvolvimento**
