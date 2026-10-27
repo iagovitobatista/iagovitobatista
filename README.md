@@ -73,12 +73,12 @@ Criação e personalização de **overlays, elementos visuais e interfaces para 
 
 > ✅ Repositório com código HTML/CSS/JavaScript do overlay Dark Souls II (duas versões) e documentação do OBS. Os alertas de follow/sub/doação permanecem em modo de teste.
 
-### 🏠 SIGA — Sistema Integrado de Gestão para Acolhimento
-**🚧 Em desenvolvimento**
+### 🏠 [SIGA 1.0 — Sistema Integrado de Gestão para Acolhimento](https://github.com/iagovitobatista/SIGA-Sistema-Integrado-de-Gestao-para-Acolhimento)
+**🚧 Protótipo em desenvolvimento — código demonstrativo publicado**
 
 Projeto autoral que busca centralizar informações operacionais de serviços de acolhimento, apoiar a gestão de vagas, registros, manutenções e estoque, e transformar dados em indicadores para a tomada de decisão.
 
-**Tecnologias e recursos previstos / em desenvolvimento:** Python, SQL, banco de dados, automações e Power BI.
+**Tecnologias já exploradas:** Python, SQLite e SQL, com cadastro, consulta e gestão demonstrativa de leitos. **Próximas etapas:** automações, relatórios e Power BI. O repositório utiliza apenas dados fictícios.
 
 ---
 
