@@ -67,7 +67,7 @@ Projeto acadêmico para aplicar fundamentos de algoritmos e programação em C, 
 Projeto acadêmico que utiliza **matrizes, arrays, funções e validação de entradas** para organizar dados simulados de chuva de 3 bairros ao longo de 7 dias, calcular indicadores e exibir relatórios e um heatmap textual.
 
 ### 🛒 [CestaData — Análise e Ordenação de Preços em C](https://github.com/iagovitobatista/cestadata-monitoramento-precos-c)
-Projeto acadêmico evolutivo: registro e análise de preços, ordenação com **Bubble Sort em C (2.0)** e **levantamento do minimundo/modelagem inicial de dados (3.0)** para um supermercado fictício. Inclui código, notebook, evidências e documentação da nova etapa.
+Projeto acadêmico evolutivo: registro e análise de preços, ordenação com **Bubble Sort em C (2.0)** e **modelagem de dados (3.0)** para um supermercado fictício, incluindo DER lógico final da EP3, relacionamentos, chaves e normalização até a **3FN**. O saldo de estoque foi modelado para ser calculado a partir das movimentações. Inclui código, notebook, diagramas e documentação.
 
 ### 🎮 [Memoria7 — Ferramentas para Streaming](https://github.com/iagovitobatista/-Memoria7-Ferramentas-para-Streaming-projeto-pessoal-)
 Criação e personalização de **overlays, elementos visuais e interfaces para transmissões ao vivo**, utilizando **HTML, CSS e JavaScript** em conjunto com o **OBS Studio**. Entre os trabalhos desenvolvidos estão um overlay interativo para *Dark Souls II*, moldura de webcam, painel de ajustes e animações/alertas de demonstração. Também aplico conhecimentos de **Filmora** na produção e edição dos conteúdos do canal.
