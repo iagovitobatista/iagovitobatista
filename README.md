@@ -55,7 +55,7 @@ Projeto de análise de dados no contexto de hotelaria, com foco na transformaç�
 Projeto prático para exercitar consultas SQL, exploração de dados e geração de informações de negócio.
 
 ### 💻 [Estudos Full Stack Web — HTML em evolução](https://github.com/iagovitobatista/estudos-full-stack-web)
-Repositório de aprendizagem contínua criado no **VS Code**, com exercícios de **HTML básico**: estrutura de páginas, textos, listas, tabelas, links, mídias e formulários. Os códigos iniciais foram preservados para documentar a evolução. **Próximas etapas:** CSS, JavaScript, Node.js, TypeScript e n8n.
+Repositório de aprendizagem contínua no **VS Code**, com exercícios de **HTML e primeiros estudos de CSS3**: estrutura de páginas, formulários, classes, IDs, cores, fontes, bordas, margens, padding e Box Model. Os exercícios HTML iniciais foram revisados e corrigidos. **Próximas etapas:** responsividade, JavaScript, Node.js, TypeScript e n8n.
 
 ### 🌐 [Conecta Social](https://github.com/iagovitobatista/conecta-social)
 Projeto acadêmico de desenvolvimento Front-End voltado à inclusão digital e ao acesso a serviços, explorando interfaces, responsividade, acessibilidade e boas práticas de versionamento.
